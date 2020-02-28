@@ -2,6 +2,8 @@ MagicStormTeam
 
 --------------
 
+Folder Sql Uopdate here https://mega.nz/#!gREnhQSJ!3Ps26jJ8Ozp0ENesCa3AEzLsBdH6DgFd8GiheXWzRtY
+
 MagicStormTeam is a *MMORPG* Framework based mostly in C++.
 
 It is fully based on *TrinityCore*, with upgrades like :
