@@ -790,7 +790,7 @@ class spell_mark_of_nature : public SpellScriptLoader
                 OnEffectHitTarget += SpellEffectFn(spell_mark_of_nature_SpellScript::HandleEffect, EFFECT_0, SPELL_EFFECT_APPLY_AURA);
             }
         };
-
+        
         SpellScript* GetSpellScript() const override
         {
             return new spell_mark_of_nature_SpellScript();
